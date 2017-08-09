@@ -4,7 +4,8 @@
             <div class="row">
                 <div class="action">
                     <div class="col-sm-12">
-                        <h1 class="title" style="color:#f9fcf6">Services</h1>
+                        <h1 class="title" style="color:#f9fcf6">
+                        <span class="letter" data-letter="S">Services</span></h1>
                         <p style="color:#f9fcf6" >We Provied</p>
                     </div>
                 </div>
@@ -20,7 +21,7 @@
             {{ $products := getJSON "/data/aboutus/ser.json" }}
             <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li>
             {{ range $products }}
-              <li><a class="btn btn-default" href="#" data-filter=".{{ .list }}">{{ .list }}</a></li>
+              <li><a class="btn btn-default" href="#" data-filter=".{{ .key }}">{{ .list }}</a></li>
             {{ end }}
           </ul><!--/#portfolio-filter-->
 
@@ -36,12 +37,12 @@
                           <div class="portfolio-view">
                               <ul class="nav nav-pills">
                                   <li><a href="portfolio-details.html"><i class="fa fa-link"></i></a></li>
-                                  <li><a href="/{{ .imgage }}" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
+                                  <li><a href="/{{ .image }}" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
                               </ul>
                           </div>
                       </div>
                       <div class="portfolio-info ">
-                          <h2>{{ .title }}</h2>
+                          <h2 style="font-weight: bold;">{{ .title }}</h2>
                       </div>
                   </div>
               </div>
@@ -50,3 +51,5 @@
         </div>
     </div>
 </section>
+<br>
+<br>

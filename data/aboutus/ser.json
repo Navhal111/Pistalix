@@ -1,15 +1,22 @@
 [
   {
-    "list":"App"
+    "list":"Mobile App",
+    "key":"Mobile"
   },
   {
-    "list":"Website"
+    "list":"Web App",
+    "key":"Web"
   },
- {
-    "list":"Mobile"
- },
- {
-    "list":"Design"
- }
-
+  {
+    "list":"Database",
+    "key":"Database"
+  },
+  {
+    "list":"E-Commerce",
+    "key":"E-Commerce"
+  },
+  {
+    "list":"Services",
+    "key":"Services"
+  }
 ]
