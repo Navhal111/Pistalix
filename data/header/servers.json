@@ -1,0 +1,20 @@
+[
+  {
+    "title":"Incredibly Responsive",
+    "des":"Ground round tenderloin flank shank ribeye. Hamkevin meatball swine. Cow shankle beef sirloin chicken ground round.",
+    "image":"images/home/graphic.png",
+    "delay":"300ms"
+  },
+  {
+    "title":"Incredibly Responsive",
+    "des":"Ground round tenderloin flank shank ribeye. Hamkevin meatball swine. Cow shankle beef sirloin chicken ground round.",
+    "image":"images/home/marketing.png",
+    "delay":"600ms"
+  },
+  {
+    "title":"Incredibly Responsive",
+    "des":"Ground round tenderloin flank shank ribeye. Hamkevin meatball swine. Cow shankle beef sirloin chicken ground round.",
+    "image":"images/home/website-design.png",
+    "delay":"900ms"
+  }
+]
