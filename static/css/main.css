@@ -486,7 +486,7 @@ ul.sub-menu {
 
 .form-control {
   border: 1px solid #eaeaea;
-  font-weight: 300;
+  font-weight: bold;
   outline: none;
   box-shadow: none;
   height: 40px;
