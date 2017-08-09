@@ -26,6 +26,13 @@
      {{partial "tv.html" .}}
     {{ end }}
 
+    {{ if eq .Params.id "python"}}
+     {{ partial "python.html"}}
+    {{end }}
+
+    {{ if not .Params.id}}
+     {{"404.html"}}
+    {{ end }}
     <footer id="footer">
       {{partial "footer.html" .}}
     </footer>
