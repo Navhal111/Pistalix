@@ -18,7 +18,7 @@ title = "pistalix"
     weight = 3
 [[menu.main]]
     name = "Careers"
-    url  = "#Careers"
+    url  = "/Careers/"
     weight = 4
 [[menu.main]]
     name = "Services"
