@@ -37,8 +37,9 @@
                           <div class="portfolio-view">
                               <ul class="nav nav-pills">
                                   <li><a href=" "><i class="fa fa-link"></i></a></li>
-                                  <li><a href="/{{ .image }}" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
+                                  <li><a href="/{{ .image }}" data-title="{{ .title }}" data-lightbox="example-set" ><i class="fa fa-eye"></i></a></li>
                               </ul>
+
                           </div>
                       </div>
                       <div class="portfolio-info ">
@@ -48,6 +49,7 @@
               </div>
               {{ end }}
            </div>
+
         </div>
     </div>
 </section>
