@@ -19,7 +19,7 @@
         <div class="row">
           <ul class="portfolio-filter text-center">
             {{ $products := getJSON "/data/aboutus/ser.json" }}
-            <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li>
+              <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li>
             {{ range $products }}
               <li><a class="btn btn-default" href="#" data-filter=".{{ .key }}">{{ .list }}</a></li>
             {{ end }}
