@@ -2,6 +2,10 @@ baseurl = "/"
 languageCode = "en-us"
 title = "pistalix"
 [[menu.main]]
+name = "Setter"
+url = "/"
+weight = 1
+[[menu.main]]
 name = "Table"
 url = "/table"
 weight = 6
