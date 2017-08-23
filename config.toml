@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "pistalix"
 [[menu.main]]
 name = "Setter"
-url = "/"
-weight = 1
+url = "/setter"
+weight = 2
 [[menu.main]]
 name = "Table"
 url = "/table"
