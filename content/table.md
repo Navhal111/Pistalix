@@ -1,4 +1,6 @@
 +++
-title = "Table"
 id = "Table"
+title = "Table"
+type = "page"
+
 +++
