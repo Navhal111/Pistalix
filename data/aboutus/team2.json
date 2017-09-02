@@ -1,21 +1,20 @@
 [
-{
-  "Name":"Abdhul",
-  "Posittion":"Employee",
-  "Work":"Developer",
-  "image":"images/aboutus/1.jpg"
-
-},{
-  "Name":"Dipnesh",
-  "Posittion":"Employee",
-  "Work":"Developer",
-  "image":"images/aboutus/2.jpg"
-
-},{
-  "Name":"Jay",
-  "Posittion":"Employee",
-  "Work":"Developer",
-  "image":"images/aboutus/1.jpg"
-
-}
+  {
+    "Name": "Abdhul",
+    "Posittion": "Employee",
+    "Work": "Developer",
+    "image": "images/aboutus/1.jpg"
+  },
+  {
+    "Name": "Dipnesh",
+    "Posittion": "Employee",
+    "Work": "Developer",
+    "image": "images/aboutus/2.jpg"
+  },
+  {
+    "Name": "Jay",
+    "Posittion": "Employee",
+    "Work": "Developer",
+    "image": "images/aboutus/1.jpg"
+  }
 ]
