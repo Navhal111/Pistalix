@@ -1,6 +1,4 @@
 +++
-id = "TV"
 title = "TV"
-type = "page"
-
+id = "TV"
 +++

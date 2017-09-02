@@ -1,6 +1,5 @@
 +++
-id = "AboutUs"
 title = "About Us"
-type = "page"
-
+id = "AboutUs"
 +++
+

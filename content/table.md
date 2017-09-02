@@ -1,6 +1,4 @@
 +++
-id = "Table"
 title = "Table"
-type = "page"
-
+id = "Table"
 +++

@@ -57,6 +57,9 @@
     font-weight: 300;
   }
 
+  .logo {
+      display: none
+  }
   h1{
     color: #080002;
   }
@@ -554,7 +557,8 @@ ul.sub-menu {
 
 #home-slider .slide-text{
   position: absolute;
-  top: 50px;
+
+  top: 0px;
   left: 0;
   width: 450px;
 }

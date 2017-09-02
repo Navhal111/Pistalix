@@ -1,6 +1,4 @@
 +++
-id = "Services"
 title = "Services"
-type = "page"
-
+id = "Services"
 +++

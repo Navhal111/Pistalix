@@ -90,10 +90,15 @@
   }
 
   #home-slider .slide-text {
-    top: 0;
+    top: 20;
+    margin-top: 5%;
     width: 50%;
   }
-
+  /*#home-slider .slide-img {
+    top: 20;
+    margin-bottom: 5%;
+    width: 50%;
+  }*/
   #home-slider h1 {
     margin-top: 0;
   }
@@ -283,6 +288,7 @@
 
   #home-slider .slide-text {
     top: 0;
+    margin-top: 5%;
     width: 100%;
     text-align: center;
   }

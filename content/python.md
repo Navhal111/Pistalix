@@ -1,6 +1,4 @@
 +++
-id = "python"
 title = "Pistalix"
-type = "page"
-
+id = "python"
 +++
