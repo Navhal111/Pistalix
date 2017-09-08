@@ -2,14 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 title = "pistalix"
 [[menu.main]]
-name = "Pistalix TV"
-parent = "products"
-url = "/TV"
-weight = 7
-[[menu.main]]
 name = "Contact us"
 url = "/contact/"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Table"
 url = "/table"
@@ -31,6 +26,11 @@ weight = 3
 name = "About Us"
 url = "/aboutus/"
 weight = 2
+[[menu.main]]
+name = "Pistalix TV"
+parent = "products"
+url = "/TV"
+weight = 7
 [[menu.main]]
 name = "Home"
 url = "/"
