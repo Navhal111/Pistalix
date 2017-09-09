@@ -31,7 +31,7 @@
     {{end }}
 
     {{ if not .Params.id}}
-     {{"index.html"}}
+     {{ .Content }}
     {{ end }}
     <footer id="footer">
       {{partial "footer.html" .}}
