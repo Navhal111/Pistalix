@@ -1,9 +1,13 @@
 +++
-date = "2017-09-09T11:28:38Z"
 title = "New"
 type = "page"
+undefined = ""
+[date]
 [menu.main]
 name = "new"
 weight = 9
 
 +++
+
+
+new site
