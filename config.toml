@@ -2,10 +2,15 @@ baseurl = "/"
 languageCode = "en-us"
 title = "pistalix"
 [[menu.main]]
+name = "Seter"
+parent = "Pages"
+url = "/seter"
+weight = 1
+[[menu.main]]
 name = "Rite"
 parent = "Pages"
 url = "/rite"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "New"
 parent = "Pages"
