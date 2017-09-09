@@ -8,6 +8,4 @@ name = "new"
 weight = 9
 
 +++
-
-
 new site
