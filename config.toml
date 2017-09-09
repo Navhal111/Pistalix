@@ -2,6 +2,10 @@ baseurl = "/"
 languageCode = "en-us"
 title = "pistalix"
 [[menu.main]]
+name = "new"
+url = "/new"
+weight = 1
+[[menu.main]]
 name = "Contact us"
 url = "/contact/"
 weight = 8
