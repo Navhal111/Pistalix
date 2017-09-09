@@ -5,7 +5,7 @@ title = "pistalix"
 name = "Seter"
 parent = "Pages"
 url = "/seter"
-weight = 1
+weight = 3
 [[menu.main]]
 name = "Rite"
 parent = "Pages"
