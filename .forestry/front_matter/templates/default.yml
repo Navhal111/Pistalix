@@ -1,7 +1,7 @@
 ---
 pages:
 - new.md
-hide_body: false
+hide_body: true
 fields:
 - name: date
   label: Date
