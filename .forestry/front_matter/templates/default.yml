@@ -8,3 +8,7 @@ fields:
   type: field_group
   hidden: false
   default: {}
+- type: select
+  config:
+    source:
+      type: datafiles
