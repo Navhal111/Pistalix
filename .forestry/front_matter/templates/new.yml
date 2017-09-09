@@ -7,3 +7,7 @@ fields:
   default: dsasdadasd
   label: name
   name: name
+- type: text
+  name: id
+  label: ID
+  default: new
