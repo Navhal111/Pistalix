@@ -5,23 +5,19 @@ title = "pistalix"
 name = "Pistalix TV"
 parent = "products"
 url = "/TV"
-weight = 8
-[[menu.main]]
-name = "New"
-url = "/new"
-weight = 2
+weight = 7
 [[menu.main]]
 name = "Contact us"
 url = "/contact/"
-weight = 9
+weight = 8
 [[menu.main]]
 name = "Table"
 url = "/table"
-weight = 7
+weight = 6
 [[menu.main]]
 name = "Services"
 url = "/services/"
-weight = 6
+weight = 5
 [[menu.main]]
 name = "Careers"
 url = "/Careers/"
